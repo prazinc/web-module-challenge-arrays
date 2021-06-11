@@ -1,5 +1,5 @@
 /*REMEMBER TO RETURN ALL OF THE ANSWERS ON THESE TASKS, IF YOU DON'T, THE AUTOGRADER WILL NOT WORK*/
-
+this is a only a test 
 /* 👀 This is your data ⬇ */
 const originalFlavors = [
     "Banana Nut Fudge",
@@ -158,7 +158,7 @@ Use the filterByWord function below to do the following:
     HINT - you can use the .includes method to help you solve this
 
     DO NOT USE ADVANCED ARRAY METHODS (i.e. .filter) to solve this problem. 
-*/
+*/...console....
 
 function filterByWord(/*your code here*/){
     //make an empty array so we can push the strings to it//
